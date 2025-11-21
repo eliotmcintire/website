@@ -32,7 +32,8 @@
   height: 550px;
   padding-left: 1.5rem;
   padding-bottom: 2rem;
-  color: #fefefe; 
+  color: #fefefe;
+  text-shadow: 2px 2px #080808; 
   text-align: right;
   align-items: center;
   margin-bottom: 0;
@@ -40,6 +41,9 @@
   background-position: bottom;
 }
 
+.quarto-title .title {
+    color: rgb(245, 245, 245);
+  }
 
 
 /* containers */
@@ -96,7 +100,7 @@
   margin-bottom: 0;
   padding: 0 1rem 1rem 1rem;
   background-color: #ffffff70;
-  min-width: 55vh;
+  min-width: 40vh;
   font-family: 'Varela';
   border-radius: 20px;
 }
@@ -122,11 +126,37 @@
   font-family: 'Varela';
 }
 
+.btn2 {
+    border-radius: 40px;
+    background-color: lightgrey;
+    border: none;
+    outline: black;
+    border: 0.5px solid lightgrey;
+    padding: 0.25rem 1.5rem 0.25rem 1.5rem;
+    overflow: hidden;
+    margin: 0.5rem 0.5rem 0.5rem 0.5rem;
+    font-family: 'Varela';
+}
 
+.btn2:hover{
+  color: black;
+  background-color: white;
+  border: 0.5px solid lightgrey;
+  font-family: 'Varela';
+}
+
+.custom-table {
+  font-family: 'Varela';
+}
 
 /* images */
 
 .gallery {
+  display: flex;
+  padding-top: 24px;
+}
+
+.gallery-responsive {
   display: flex;
   padding-top: 24px;
 }
@@ -180,6 +210,10 @@ input:focus {
   .container-poster {
     right: 50% !important;
     transform: translate(+50%, -50%) !important;
+  }
+  .gallery-responsive {
+    flex-direction: column;
+    flex-wrap: wrap;
   }
 }
 

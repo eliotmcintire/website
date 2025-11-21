@@ -3,3 +3,5 @@
 website.Rproj
 .Rhistory
 
+
+**/*.quarto_ipynb

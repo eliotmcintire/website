@@ -27,7 +27,7 @@ The CEFI steering committee was instituted to help the network with the followin
 <li>Improve the sustainability of the network</li>
 <li>Continue to create and organize impactful initiatives</li>
 <br>
-To achieve these goals, the steering committee is formed by 5-10 members and has elections every two years. It includes representation from: graduate students and post-doctoral researchers (min. 2), government representatives (min. 2), industry & NGO (min. 2), and academics (remaining seats). All decisions are made by majority vote. The steering committee holds monthly meetings.
+To achieve these goals, the steering committee is formed by 5-10 members and has elections every two years. It aims to include representation from: graduate students and post-doctoral researchers (min. 2), government representatives (min. 2), industry & NGO (min. 2), and academics (remaining seats). All decisions are made by majority vote. The steering committee holds monthly meetings.
 </div>
 <br>
 
@@ -124,6 +124,21 @@ Eliot is a Research Scientist with Natural Resources Canada and the Canadian For
 </div>
 <br>
 <br>
+</div>
+</div>
+</div>
+
+<div class="content-left">
+<div class="gallery">
+<div class="three-image-gallery">
+<img src="_assets\members\edwards.jpg" style="width: 100%; padding-bottom: 12px">
+<br><a href="http://brandonedwards.ca" target="_blank">Brandon Edwards</a></u><br>
+Ducks Unlimited Canada<br>
+<br>
+Brandon is an ecological statistician who works with a variety of datasets across scales to make conservation decisions that affect both people and nature.</div>
+<div class="three-image-gallery">
+</div>
+<div class="three-image-gallery">
 </div>
 </div>
 </div>
